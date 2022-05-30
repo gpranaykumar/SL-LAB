@@ -1,0 +1,1 @@
+puts "Current time: " + TIME
